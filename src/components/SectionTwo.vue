@@ -7,7 +7,7 @@
         </p>
         <button>Read More</button>
       </div>
-      <div class="images">
+      <!-- <div class="images">
         <img class="main-image" src="/corperate-figma/src/assets/new-main-image.png" alt="Main Image">
         <div class="small-images">
           <img src="/corperate-figma/src/assets/pic1.png" alt="Small Image 1">
@@ -20,7 +20,7 @@
 
 
         </div>
-      </div>
+      </div> -->
     </section>
   </template>
   
